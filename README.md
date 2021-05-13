@@ -4,7 +4,7 @@ Account Service
 ## Controlling Services
 ### API-endpoints
 ```
-POST - http://http://localhost:8080/accounts/create @ResponseBody(#ref Account)
+POST - http://localhost:8080/accounts/create @ResponseBody(#ref Account)
 ```
 ### #Ref - Account.json
 ```
