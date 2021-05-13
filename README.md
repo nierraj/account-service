@@ -6,7 +6,7 @@ Account Service
 ```
 POST - http://localhost:8080/accounts/create @ResponseBody(#ref Account)
 ```
-### #Ref - Account.json
+### Account.json
 ```
 {
     "id" : "101",
