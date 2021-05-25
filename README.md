@@ -18,3 +18,8 @@ POST - http://http://localhost:8080/accounts/create @ResponseBody(#ref Account)
 ```
 It has data.sql which will Insert the Records on Server Start up
 ```
+
+```
+I have added Swagger 3: http://localhost:8080/swagger-ui/
+You can use Swagger UI to get the API details.
+```
